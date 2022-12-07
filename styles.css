@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.signup {
+  width: 600px;
+  margin: 20px 20px;
+}
+
+h1 {
+  width: 600px;
+  margin: 5px 20px;
+  padding: 10px 5px;
+  text-align: center;
+}
+
+input {
+  padding: 10px 8px;
+  margin: 8px 5px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+input[type="phone"],
+input[type="email"] {
+  width: 59.5%;
+}
+
+.checkbox {
+  text-align: left;
+  padding: 2px 90px;
+}
+
+.buttons {
+  width: 100%;
+}
+
+.register {
+  background-color: rgb(96, 119, 234);
+  border: none;
+  border-radius: 6px;
+  color: white;
+  padding: 12px 65px;
+}
+
+.signin {
+  background-color: #4ad631;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  padding: 12px 65px;
+}
